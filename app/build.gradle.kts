@@ -14,7 +14,7 @@ android {
 
     defaultConfig {
         applicationId = "df.root"
-        minSdk = 32
+        minSdk = 30
         targetSdk = 37
         versionCode = 401
         versionName = "4.1"
